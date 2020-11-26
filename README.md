@@ -25,5 +25,7 @@ Media inquiries for desktop/mobile views.
 
 Features (added):
 Tech Used:
+HTML Boilerplate (Visual Studio)
+CSS Normaliser by necolas on githubs
 Testing Stories:
 Credits:
