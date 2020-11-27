@@ -18,22 +18,24 @@ h1 {
 /*CSS for Edu Hist section*/
 .edu-hist-container{
     display: flex;
-    flex-direction: row ;
+    flex-flow: row wrap ;
     justify-content: space-around;
+    
 }
 /*CSS for Edu Hist Profiles*/
 .edu-hist-profile {
     margin: 10px;
+    padding: 2%;
+    flex-basis: 40%;
     display: flex;
-    /*width: 520px;*/ 
-    height: 136px;
-    line-height: 10px;
+    flex-grow: 1;
+
+    line-height: 13px;
     background-color: rgb(241, 228, 202);
 }
 
 .edu-hist-text {
-    margin: 10px;
-    
+    margin: 10px;  
 }
 
  .edu-hist-container img {
