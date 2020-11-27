@@ -13,17 +13,27 @@ h1 {
 /*Special CSS for Main header*/
 .header {
     margin-bottom:10px;
+    font-size: 25px;
+}
+/*CSS for Edu Hist section*/
+.edu-hist-container{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-around;
 }
 /*CSS for Edu Hist Profiles*/
 .edu-hist-profile {
     margin: 10px;
     display: flex;
-    width: 520px; 
+    /*width: 520px;*/ 
+    height: 136px;
+    line-height: 10px;
     background-color: rgb(241, 228, 202);
 }
 
 .edu-hist-text {
     margin: 10px;
+    
 }
 
  .edu-hist-container img {
