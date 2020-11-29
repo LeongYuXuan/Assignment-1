@@ -95,6 +95,37 @@ h1 {
     max-width: 99%;
 }
 
+/*CSS for Inquire Form*/
+.inquireForm{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    flex-basis: 40%;
+    margin: 5px;
+    background-color: aliceblue;
+}
+.inquireForm h2{
+    width: 600px;
+
+    color: white;
+    margin: 5px;
+    background-color:rgb(60, 97, 177);
+}
+input{
+    width: 600px;
+    margin: 5px;
+    max-width: 100%;
+}
+.inquiry{
+    margin: 5px;
+    width: 600px;
+    height: 300px;
+    max-width: 100%;
+}
+.submit{
+    width: 70px;
+}
 /*CSS for footer*/
 .footer{
     height:150px;
