@@ -39,5 +39,12 @@ Observations: Media Inquiries sucessfuly prevent website from looking odd until 
 Test: Upsixing window from 1280px
 Observations: Website looks normal when viewed at my default laptop window size (~1480px). Beyond that, the profiles for both the educational history and skills kept growing and thus started looking weird. Website elements stop growing at ~2173 px and remained constant in size while the body kept going.
 To do: Fix the overgrowing of the profiles
+Result: Far too late to modify. I have lost too much marks for it to be worth it since this was being done 2 days past the deadline
+
 Credits:
+"Placeholder image" is sourced from me
+Ngee Ann logo sourced from their website (somewhere)
+Bowen Secondary logo sourced from Wikipedia
+HTML CSS and JS logos sourced from Miro Medium
+
 
