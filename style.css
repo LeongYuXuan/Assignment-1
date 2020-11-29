@@ -2,6 +2,7 @@
 body {
     background-color: rgb(164, 166, 167);
     display: flex;
+    flex-flow: column;
     justify-content: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
