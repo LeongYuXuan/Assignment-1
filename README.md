@@ -14,18 +14,30 @@ As the Employer, I would like to be able to acquire a profile a possible worker'
 The wireframes would be included in the image file, under "wireframes".
 
 Features (To be added):
+(Wow, sudden change)
 
+Features (added):
 Heading Section
 Educational History Section
 Skills Section
 Contact Section, for people with inquiries to send a quick email to the individual.
 Additional contact info section
 Flex Boxes
-Media inquiries for desktop/mobile views.
+Media inquiries to make sure website visuals do not break
 
-Features (added):
+
 Tech Used:
+Google (for searching how todo that etc...)
 HTML Boilerplate (Visual Studio)
-CSS Normaliser by necolas on githubs
+CSS Normaliser by necolas on github
 Testing Stories:
+Mostly just re-adjusting window size.
+
+Test: Downsizing window size from 1280.
+Observations: Media Inquiries sucessfuly prevent website from looking odd until ~200px width. Going smaller prevented people from seeing text content on the left of the screen. Hopefully very few have a device that small.
+
+Test: Upsixing window from 1280px
+Observations: Website looks normal when viewed at my default laptop window size (~1480px). Beyond that, the profiles for both the educational history and skills kept growing and thus started looking weird. Website elements stop growing at ~2173 px and remained constant in size while the body kept going.
+To do: Fix the overgrowing of the profiles
 Credits:
+
