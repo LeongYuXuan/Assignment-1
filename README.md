@@ -41,6 +41,9 @@ Observations: Website looks normal when viewed at my default laptop window size 
 To do: Fix the overgrowing of the profiles
 Result: Far too late to modify. I have lost too much marks for it to be worth it since this was being done 2 days past the deadline
 
+Test: Fixing Code for validation
+Observations: Almost thought the entire page was broken after I tried fixing the doctype thing. It was fixed after adding "flex-direction: column". Gave me a big scare.
+
 Credits:
 "Placeholder image" is sourced from me
 Ngee Ann logo sourced from their website (somewhere)
