@@ -44,6 +44,9 @@ Result: Far too late to modify. I have lost too much marks for it to be worth it
 Test: Fixing Code for validation
 Observations: Almost thought the entire page was broken after I tried fixing the doctype thing. It was fixed after adding "flex-direction: column". Gave me a big scare.
 
+Test: Fixing CSS code for validation
+Observation: Only 1 error, it felt great.
+
 Credits:
 "Placeholder image" is sourced from me
 Ngee Ann logo sourced from their website (somewhere)
