@@ -46,5 +46,6 @@ Credits:
 Ngee Ann logo sourced from their website (somewhere)
 Bowen Secondary logo sourced from Wikipedia
 HTML CSS and JS logos sourced from Miro Medium
-
+Python from Github
+PS/AI logos sourced from Miro Medium
 
